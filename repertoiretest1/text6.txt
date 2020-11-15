@@ -1,2 +1,3 @@
 erreur de fichier
 modification text6
+modification 2 du texte
